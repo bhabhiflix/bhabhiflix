@@ -5,8 +5,8 @@
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:2.002011,
-https://server6.filedownloadlink.xyz/download6/9890.mp4
+https://server9.filedownloadlink.xyz/hlsplay9/9892/index.m3u8
 #EXTINF:2.002000,
-https://server9.filedownloadlink.xyz/download9/9892.mp4
+https://server6.filedownloadlink.xyz/hlsplay6/9890/index.m3u8
 #EXTINF:2.002000,
-https://server1.filedownloadlink.xyz/download1/9885.mp4
+https://server1.filedownloadlink.xyz/hlsplay1/9885/index.m3u8
