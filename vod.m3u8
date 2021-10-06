@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+## Written by https://t.me/inside83 2021 ##
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.002011,
+https://server6.filedownloadlink.xyz/download6/9890.mp4
+#EXTINF:2.002000,
+https://server9.filedownloadlink.xyz/download9/9892.mp4
+#EXTINF:2.002000,
+https://server1.filedownloadlink.xyz/download1/9885.mp4
