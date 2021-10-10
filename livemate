@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=700000
+http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
